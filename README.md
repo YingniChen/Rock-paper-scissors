@@ -1,5 +1,5 @@
 # Rock-paper-scissors
-Project: Rock Paper Scissors
+Project: Rock Paper Scissors<BR/>
 Name of the team: CC
 Members: Haoxian Chen, Yingni Chen
 York email: haoxian@my.yorku.ca, ediechen@my.yorku.ca
