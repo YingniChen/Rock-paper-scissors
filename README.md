@@ -11,7 +11,7 @@ Function Requirements:<BR/>
 	The program will show the rule of the game.<BR/>
 	The program will display three pictures which are represent the three symbols.<BR/>
 	The player choose one of the picture.<BR/>
-	The program randomly generates a random number from 0-2 in the background represent the three status of the game.<BR/>
+	The program randomly generates a random number from 0-2 to represent the three symbols of the game.<BR/>
 	The program output the number and show relative symbol.<BR/>
 	Compare the symbol between player and the program.<BR/>
 	Shows the winner.<BR/>
