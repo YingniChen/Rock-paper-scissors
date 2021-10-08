@@ -16,5 +16,5 @@ Function Requirements<BR/>
 	Compare the symbol between player and the program.<BR/>
 	Shows the winner.<BR/>
 	Repeat the process three times.<BR/>
-	Alert the final winner in the screen.<BR/>
-	Display “try again” if player lose or shows “Good job” when player win.
+	Display the final winner in the screen.<BR/>
+	Alert “try again” if player lose or shows “Good job” when player win.
