@@ -10,7 +10,7 @@ The rule is that rock counter scissors, scissors counter paper, paper counter ro
 
 Function Requirements:<BR/>
  Ask the player create user name: The game will ask the player input his username to record his scores, if the player did not input the username, player can not get into the game.<BR/>
-    Username: must between 3 to 8 character.
+    "Username: must between 3 to 8 character."<BR/>
 	The program will show the rule of the game: There is a button, if click on it, it will introduce the rules of the game. <BR/>
 	The program will display three pictures which are represent the three symbols.<BR/>
 	The player choose one of the picture.<BR/>
