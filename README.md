@@ -23,4 +23,4 @@ Function Requirements:<BR/>
 ·	Display the final winner in the screen.<BR/>
 ·   "if there are no winner such as the player’s choice exactly the same with the program for three times, then alert impossible!!" <BR/>
 ·	Otherwise Alert “try again” if player lose or shows “Good job” when player win, shows the button that repeat the game. <BR/>
-The list will keep recoeding the scores of the player untile he quit the game.
+The list will keep recording the scores of the player until he quit the game.
