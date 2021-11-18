@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title> Project1 </title>
+    <link href="rank1page.css" type="text/css" rel="stylesheet">
+    <script src="rank1page.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <!--返回按钮-->
+    <button onclick="back()">BACK</button>
+
+    <h1>Rank 1</h1>
+
+    <!--从图片作出选择-->
+    <div id="picture">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-YnlUyLTC29FznuBL6mFLtrd2HaGX7pftsQ&usqp=CAU" onclick="Scissors()">
+        <img src="https://www.coolpen.org/upload/2021/01-30/2c92bb266ae2f59dd044f19912633376-1.jpg" onclick="Paper()">
+    </div>
+
+    <br>
+    <h5>! Make your choice !</h5>
+    <br>
+    <!--展示用户选择图片和系统选择图片-->
+    <input type="image" onchange="show(this)" />
+    <input type="image" onchange="show(this)" />
+    <br>
+
+    <!--展示用户名-->
+    <p id="name"> </p>
+    <p>Computer</p>
+    <br>
+    <!--展示分数-->
+    <p id="userscore">Score: </p>
+    <p id="proscore">Score: </p>
+
+    <button id="test" onclick="test()">test</button>
+
+
+
+
+</body>
+
+</html>
